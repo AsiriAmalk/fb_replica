@@ -1,2 +1,2 @@
 
-web: gunicorn app.wsgi
+web: gunicorn FB_Replica.wsgi
